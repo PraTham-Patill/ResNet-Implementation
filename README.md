@@ -2,10 +2,6 @@
 
 This project implements the 56-layer Residual Network (ResNet-56) for CIFAR-10 entirely from scratch. The focus is on demonstrating the successful stabilization of gradient flow via the core Residual Block structure
 
-- Training script: [src/train_resnet56_cifar10.py](src/train_resnet56_cifar10.py)
-- Requirements: [requirements.txt](requirements.txt)
-- Background notes: [docs/ResNet.pdf](docs/ResNet.pdf)
-
 
 ## Overview
 
